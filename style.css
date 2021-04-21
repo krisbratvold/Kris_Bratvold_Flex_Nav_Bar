@@ -1,0 +1,27 @@
+.nav {
+    background-color: darkgray;
+    width: 800px;
+    height: 50px;
+    display: flex;
+    font-family: Roboto;
+    align-items: center;
+    padding:7px;
+    justify-content:flex-start;
+}
+.btn {
+    background-color:teal;
+    box-shadow: 3px 3px;
+}
+a{
+    color: white;
+    text-decoration: none;
+    margin:10px;
+    
+}
+
+.nav-title{
+    color: white;
+    align-items: flex-start;
+    margin-right: 325px;
+}
+
